@@ -25,7 +25,7 @@ Follow the green link shown at the end of the build to view your build scan.
 Note: If you run a build without the `-Dscan` flag, no build scan will be created and 
 no information will be sent.
 
-## Next steps
+## Experiment with build scans
 
 Create different kinds of build scans by locally modifying this quickstart project. Here are some ideas:
 
@@ -33,7 +33,15 @@ Create different kinds of build scans by locally modifying this quickstart proje
 - Edit `src/test/java/example/ExampleTest.java` to introduce test failures
 - Add more dependencies, more plugins, and more projects 
 
-Alternatively, enable one of your own builds to produce build scans by following the [step-by-step instructions][instructions]. 
+Alternatively, enable one of your own builds to produce build scans by following the [step-by-step instructions][instructions].
+ 
+## Learn more
+
+There's more to build scans. You can create builds scans for all of your builds via an init script.
+You can enable automatic publication (i.e. no need for -Dscan).
+You can even extend build scans with custom data, and more.
+
+Learn how by consulting the [build scans user manual][manual].
     
 ## Need help?
 
@@ -47,3 +55,4 @@ If you are completely new to the Gradle Build Tool, start [here][gradle-download
 [terms-of-service]: https://scans.gradle.com/terms-of-service
 [instructions]: https://scans.gradle.com/get-started
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/cloud-services
+[manual]: https://docs.gradle.com/scans/
