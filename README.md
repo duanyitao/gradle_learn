@@ -37,11 +37,7 @@ Alternatively, enable one of your own builds to produce build scans by following
  
 ## Learn more
 
-There's more to build scans. You can create builds scans for all of your builds via an init script.
-You can enable automatic publication (i.e. no need for -Dscan).
-You can even extend build scans with custom data, and more.
-
-Learn how by consulting the [build scans user manual][manual].
+Read the [build scans user manual][manual] to learn more about build scans and the build scan plugin.
     
 ## Need help?
 
