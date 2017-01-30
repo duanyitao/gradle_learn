@@ -46,9 +46,9 @@ Talk to us on the [Gradle forum][gradle-forum].
 If you are completely new to the Gradle Build Tool, start [here][gradle-download].
 
 [gradle-download]: https://gradle.org/gradle-download
-[plugin]: https://scans.gradle.com/plugin
+[plugin]: https://gradle.com/scans/plugin
 [gradle.com]: https://www.gradle.com
-[terms-of-service]: https://scans.gradle.com/terms-of-service
-[instructions]: https://scans.gradle.com/get-started
+[terms-of-service]: https://gradle.com/terms-of-service
+[instructions]: https://gradle.com/scans/get-started
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/cloud-services
 [manual]: https://docs.gradle.com/scans/
