@@ -19,10 +19,10 @@ The build should end with something similar to:
 
     Publishing build information...
     https://gradle.com/s/ria2s2x5oaazq
-    
+
 Follow the green link shown at the end of the build to view your build scan.
 
-Note: If you run a build without the `-Dscan` flag, no build scan will be created and 
+Note: If you run a build without the `-Dscan` flag, no build scan will be created and
 no information will be sent.
 
 ## Experiment with build scans
@@ -31,14 +31,14 @@ Create different kinds of build scans by locally modifying this quickstart proje
 
 - Edit `src/main/java/example/Example.java` to introduce compile errors
 - Edit `src/test/java/example/ExampleTest.java` to introduce test failures
-- Add more dependencies, more plugins, and more projects 
+- Add more dependencies, more plugins, and more projects
 
 Alternatively, enable one of your own builds to produce build scans by following the [step-by-step instructions][instructions].
- 
+
 ## Learn more
 
-Read the [build scans user manual][manual] to learn more about build scans and the build scan plugin.
-    
+Read the [build scan plugin user manual][manual] to learn more about build scans and the build scan plugin.
+
 ## Need help?
 
 Talk to us on the [Gradle forum][gradle-forum].
@@ -51,4 +51,4 @@ If you are completely new to the Gradle Build Tool, start [here][gradle-download
 [terms-of-service]: https://gradle.com/terms-of-service
 [instructions]: https://gradle.com/scans/get-started
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/cloud-services
-[manual]: https://docs.gradle.com/scans/
+[manual]: https://docs.gradle.com/build-scan-plugin/
