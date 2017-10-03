@@ -13,7 +13,7 @@ Follow these simple steps to create a build scan:
 1. Clone this project
 2. Read the [Terms of Service][terms-of-service]
 3. Uncomment the Terms of Service agreement code in the `build.gradle` file
-4. Run `./gradlew build -Dscan`
+4. Run `./gradlew build --scan`
 
 The build should end with something similar to:
 
@@ -22,7 +22,7 @@ The build should end with something similar to:
 
 Follow the green link shown at the end of the build to view your build scan.
 
-Note: If you run a build without the `-Dscan` flag, no build scan will be created and
+Note: If you run a build without the `--scan` flag, no build scan will be created and
 no information will be sent.
 
 ## Experiment with build scans
