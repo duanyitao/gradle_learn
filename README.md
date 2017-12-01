@@ -48,6 +48,6 @@ If you are completely new to the Gradle Build Tool, start [here][gradle-download
 [plugin]: https://gradle.com/scans/plugin
 [gradle.com]: https://www.gradle.com
 [terms-of-service]: https://gradle.com/terms-of-service
-[instructions]: https://gradle.com/scans/get-started
+[instructions]: https://scans.gradle.com/get-started
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/scans
 [manual]: https://docs.gradle.com/build-scan-plugin/
