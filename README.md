@@ -16,7 +16,7 @@ Follow these simple steps to create a build scan:
 
 The build should end with something similar to:
 
-    Publishing build information...
+    Publishing build scan...
     https://gradle.com/s/ria2s2x5oaazq
 
 Follow the green link shown at the end of the build to view your build scan.
