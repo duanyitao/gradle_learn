@@ -11,9 +11,8 @@ It is a small Java project that has the [build scan plugin][plugin] already appl
 Follow these simple steps to create a build scan:
 
 1. Clone this project
-2. Read the [Terms of Service][terms-of-service]
-3. Uncomment the Terms of Service agreement code in the `build.gradle` file
-4. Run `./gradlew build --scan`
+1. Run `./gradlew build --scan`
+1. Agree to the [Terms of Service][terms-of-service] on the command line
 
 The build should end with something similar to:
 
