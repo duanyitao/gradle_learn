@@ -2,13 +2,6 @@ plugins {
     id 'java'
 }
 
-if (project.plugins.hasPlugin('com.gradle.build-scan')) {
-    buildScan {
-        tag 'SAMPLE'
-        link 'GitHub', 'https://github.com/gradle/gradle-build-scan-quickstart'
-    }
-}
-
 repositories {
     jcenter()
 }
