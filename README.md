@@ -45,7 +45,7 @@ Talk to us on the [Gradle forum][gradle-forum].
 If you are completely new to the Gradle Build Tool, start [here][gradle-download].
 
 [gradle-download]: https://gradle.org/install/
-[plugin]: https://gradle.com/scans/plugin
+[plugin]: https://docs.gradle.com/build-scan-plugin/
 [gradle.com]: https://www.gradle.com
 [terms-of-service]: https://gradle.com/terms-of-service
 [instructions]: https://scans.gradle.com/get-started
