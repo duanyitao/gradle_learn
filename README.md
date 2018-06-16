@@ -1,6 +1,6 @@
 # Build scan quickstart
 
-<img src="http://bit.ly/2kZWwg8" align="right" width="280" />
+<img src="http://bit.ly/2JSSCT0" align="right" width="280" />
 
 This is an example project that you can use to experience [build scans][gradle.com].
 
